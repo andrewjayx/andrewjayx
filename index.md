@@ -6,4 +6,4 @@ def foo
 end
 {% endhighlight %}
 
-{{ site.pages }}
+{% site.pages %}
