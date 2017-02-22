@@ -6,4 +6,3 @@ def foo
 end
 {% endhighlight %}
 
-{% site.pages %}
